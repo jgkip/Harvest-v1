@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Material
+  - Inventory
+  - Enemy
+  - Weapon
+  - Crafting
+  - Sound
+  - EnemySpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Material
+  - Water
+  - UI
+  - Player
+  - World
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Material
+    uniqueID: 542831783
+    locked: 0
+  - name: Player
+    uniqueID: 2681955137
+    locked: 0
